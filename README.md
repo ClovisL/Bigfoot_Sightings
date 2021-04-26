@@ -1,4 +1,4 @@
-# Bigfoot_Sightings
+# Bigfoot Sightings
  First group project
 
 ## Reads over a data set of bigfoot sightings and takes relevant information into data frames to analyze
